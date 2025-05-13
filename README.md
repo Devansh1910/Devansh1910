@@ -1,4 +1,4 @@
-<h1 align="center">🚀 Devansh Saxena</h1>
+<h1 align="leading">🚀 Devansh Saxena</h1>
 <p align="center">
   <b>Mobile Application Developer</b> | iOS | Android | Flutter | React Native<br/>
   <i>Crafting pixel-perfect, performant, and scalable mobile experiences</i>
