@@ -22,7 +22,7 @@
 
 Hi! I’m **Devansh**, a mobile-first developer with **2.5+ years** of experience building high-impact apps using **Flutter**, **Swift**, and **React Native**.
 
-- 🔥 Currently leading iOS development at **AurusIT** (Client: **PVR INOX**)
+- 🔥 Currently leading iOS development at **PVRCinemas**
 - 📱 Delivered production-grade apps for **millions of users**
 - 🧠 Passionate about performance optimization, UI/UX, and clean architecture
 - 🛠️ Focused on **scalable**, **reusable**, and **testable** mobile codebases
