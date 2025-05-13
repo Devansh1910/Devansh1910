@@ -36,7 +36,7 @@
 
 ### 🧠 About Me
 - 🎓 B.Tech in Computer Engineering from Galgotias University (2021–2025)
-- 💼 iOS Developer @ AurusIT (Client: PVR INOX), ex-Broverg Corporation
+- 💼 iOS Developer PVRCinemas.
 - 🛠️ 2.5+ years experience in building production-grade Flutter & iOS apps
 - 📱 Obsessed with clean UI, reusable components, and smooth performance
 
